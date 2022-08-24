@@ -47,7 +47,7 @@ Error generating stack: `+o.message+`
  * LICENSE.md file in the root directory of this source tree.
  *
  * @license MIT
- */function Om(e){let{basename:t,children:n,window:r}=e,l=C.exports.useRef();l.current==null&&(l.current=om({window:r}));let o=l.current,[i,u]=C.exports.useState({action:o.action,location:o.location});return C.exports.useLayoutEffect(()=>o.listen(u),[o]),C.exports.createElement(xm,{basename:t,children:n,location:i.location,navigationType:i.action,navigator:o})}const $m="/integration-study/assets/fakelogo.72cc1e15.png",Nm="_main_1jogz_1",Ys={main:Nm,"intro-container":"_intro-container_1jogz_9"};var ha={exports:{}},go={};/**
+ */function Om(e){let{basename:t,children:n,window:r}=e,l=C.exports.useRef();l.current==null&&(l.current=om({window:r}));let o=l.current,[i,u]=C.exports.useState({action:o.action,location:o.location});return C.exports.useLayoutEffect(()=>o.listen(u),[o]),C.exports.createElement(xm,{basename:t,children:n,location:i.location,navigationType:i.action,navigator:o})}const $m="/integration-zappier-study/assets/fakelogo.72cc1e15.png",Nm="_main_1jogz_1",Ys={main:Nm,"intro-container":"_intro-container_1jogz_9"};var ha={exports:{}},go={};/**
  * @license React
  * react-jsx-runtime.production.min.js
  *

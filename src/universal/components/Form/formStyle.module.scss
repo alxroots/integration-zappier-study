@@ -1,0 +1,20 @@
+.container {
+  width: 100vw;
+}
+.form-style {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  gap: 8px;
+
+  input {
+    min-width: 640px;
+  }
+
+  .submit-button {
+    margin-top: 32px;
+    width: 120px;
+    height: 40px;
+  }
+}

@@ -4,6 +4,6 @@ import tsconfigPaths from "vite-tsconfig-paths";
 
 // https://vitejs.dev/config/
 export default defineConfig({
-  base: "/integration-study/",
+  base: "/integration-zappier-study/",
   plugins: [react(), tsconfigPaths()],
 });
